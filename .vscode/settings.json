@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 20, 
+    "editor.fontFamily": "'Consolas', D2Coding",
+    "terminal.integrated.fontSize": 20,
+    "terminal.integrated.fontFamily": "Consolas, monospace, D2Coding",
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true
+}
