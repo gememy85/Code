@@ -1,2 +1,3 @@
 # 2020_Python_Coding_Practice
-- my first coding experience
+- Author : Wonseok Jang
+- Description : my first coding experience
